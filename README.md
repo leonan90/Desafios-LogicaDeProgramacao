@@ -2,6 +2,8 @@
 
 <h2>🏷️ Sobre</h2>
 <p>Trata-se de um repositório para listar os projetos propostos pela Alura no curso de Desafios em Lógica de Programação.</p>
+<p>A ideia foi tentar realizar o projeto em JavaScript a partir de um HTML já pronto, e assim configurar corretamente cada ação que o site realiza.</p>
+
 
 ## 🚀 Tecnologias
 <p>Aqui são exploradas as ferramentas de JavaScript e sua interação com HTML e CSS.</p>
