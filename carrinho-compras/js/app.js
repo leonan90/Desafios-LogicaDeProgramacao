@@ -10,7 +10,7 @@ function adicionar() {
         return;
     }
 
-    if (isNaN(quantidade) || quantidade <= 0) {
+    if (isNaN(qtdAdicionada) || qtdAdicionada <= 0) {
         alert("Insira uma quantidade válida.");
         return;
     }
