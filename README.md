@@ -2,7 +2,9 @@
 
 <h2>🏷️ Sobre</h2>
 <p>Trata-se de um repositório para listar os projetos propostos pela Alura no curso de Desafios em Lógica de Programação.</p>
-<p>A ideia foi tentar realizar o projeto em JavaScript a partir de um HTML já pronto, e assim configurar corretamente cada ação que o site realiza.</p>
+<p>A ideia geral em cada projeto é tentar realizar o código em JavaScript utilizando um HTML já pronto, e assim configurar corretamente cada ação que o site realiza.</p>
+
+<p>Pessoalmente, achei que cada projeto possuiu moderada a grande dificuldade, pois incluiu novas ferramentas a serem utilizadas e forçou a praticar muito cada ação necessária dentro da lógica de programação.</p>
 
 
 ## 🚀 Tecnologias
@@ -15,4 +17,7 @@
 <div>
 
 <h2>Projeto 1️⃣: Sorteador de números</h2>
-
+<h2>Projeto 2️⃣: Locadora de jogos</h2>
+<h2>Projeto 3️⃣: Carrinho de compras</h2>
+<h2>Projeto 4️⃣: Ingresso online</h2>
+<h2>Projeto 5️⃣: Amigo secreto</h2>
