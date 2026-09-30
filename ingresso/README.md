@@ -1,6 +1,6 @@
 # 🎟️ Compra de Ingressos
 
-Projeto desenvolvido no curso da Alura para praticar conceitos fundamentais de **JavaScript**, simulando um sistema de compra de ingressos para diferentes setores de um evento.
+Projeto desenvolvido nos cursos da Alura para praticar conceitos fundamentais de **JavaScript**, simulando um sistema de compra de ingressos para diferentes setores de um evento.
 
 O usuário pode selecionar o tipo de ingresso, informar a quantidade desejada e realizar a compra. O sistema verifica a disponibilidade, valida os dados informados e atualiza automaticamente a quantidade de ingressos restantes.
 
@@ -58,8 +58,6 @@ Quando a compra é realizada com sucesso, o usuário recebe uma confirmação, q
 ## 🧠 Conceitos de JavaScript praticados
 
 Este projeto foi desenvolvido utilizando diversos conceitos fundamentais de JavaScript.
-
-## ⚙️ Funcionalidades JavaScript
 
 - Variáveis (`let`)
 - Funções
