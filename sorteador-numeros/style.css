@@ -130,8 +130,8 @@ h1 {
     line-height: normal;
 }
 
-.container__imagem-pessoa {
-    max-width: 100%;
+.container__imagem-dados {
+    max-width: 50%;
     height: auto;
     margin-top: 2rem;
 }
