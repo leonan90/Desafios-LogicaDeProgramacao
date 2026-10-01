@@ -16,8 +16,10 @@
     <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css&logoColor=white">
 <div>
 
-<h2>Projeto 1️⃣: Sorteador de números</h2>
-<h2>Projeto 2️⃣: Locadora de jogos</h2>
-<h2>Projeto 3️⃣: Carrinho de compras</h2>
-<h2>Projeto 4️⃣: Ingresso online</h2>
-<h2>Projeto 5️⃣: Amigo secreto</h2>
+## Links
+
+- 🎲 [Sorteador de Números](https://leonan90.github.io/Desafios-LogicaDeProgramacao/sorteador-numeros/)
+- 🎮 [Locadora de Jogos](https://leonan90.github.io/Desafios-LogicaDeProgramacao/alugames/)
+- 🛒 [Carrinho de Compras](https://leonan90.github.io/Desafios-LogicaDeProgramacao/carrinho-compras/)
+- 🎟️ [Ingresso Online](https://leonan90.github.io/Desafios-LogicaDeProgramacao/ingresso/)
+- 🎁 [Amigo Secreto](https://leonan90.github.io/Desafios-LogicaDeProgramacao/amigo-secreto/)
